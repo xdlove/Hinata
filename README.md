@@ -25,6 +25,7 @@
 *  [IntermediatePython](https://github.com/yasoob/intermediatePython)
 *  [ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage)
 *  [Caktus Group的不错的文章](https://www.caktusgroup.com/blog/2015/06/08/testing-client-side-applications-django-post-mortem/)
+*  [Flask 之旅](https://spacewander.github.io/explore-flask-zh/7-blueprints.html)
 
 ## Environment
 *  [smartcd](https://github.com/cxreg/smartcd)
@@ -32,3 +33,7 @@
 
 ## VIM
 *  [Ag/Ack 全局搜索工具](http://harttle.com/2015/12/21/vim-search.html)
+*  [VIM 主题](http://vimcolors.com/)
+
+## 工具
+* [Mac环境下Sequel Pro](http://www.sequelpro.com/download)
