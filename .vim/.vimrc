@@ -1,1 +1,0 @@
-/home/linxudong/.vim/.vimrc
