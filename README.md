@@ -30,6 +30,7 @@
 ## Environment
 *  [smartcd](https://github.com/cxreg/smartcd)
 *  [Virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+*  [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejkdgca)
 
 ## VIM
 *  [Ag/Ack 全局搜索工具](http://harttle.com/2015/12/21/vim-search.html)
